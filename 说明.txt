@@ -1,0 +1,4 @@
+开发环境：
+Visual Studio Professional 2012 Update5
+DirectXSDK-Jun10
+

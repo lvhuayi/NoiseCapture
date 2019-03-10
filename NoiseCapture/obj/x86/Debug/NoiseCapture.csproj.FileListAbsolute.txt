@@ -1,0 +1,8 @@
+Z:\NoiseCapture\NoiseCapture\bin\x86\Debug\NoiseCapture.exe.config
+Z:\NoiseCapture\NoiseCapture\bin\x86\Debug\NoiseCapture.exe
+Z:\NoiseCapture\NoiseCapture\bin\x86\Debug\NoiseCapture.pdb
+Z:\NoiseCapture\NoiseCapture\obj\x86\Debug\NoiseCapture.Form1.resources
+Z:\NoiseCapture\NoiseCapture\obj\x86\Debug\NoiseCapture.Properties.Resources.resources
+Z:\NoiseCapture\NoiseCapture\obj\x86\Debug\NoiseCapture.csproj.GenerateResource.Cache
+Z:\NoiseCapture\NoiseCapture\obj\x86\Debug\NoiseCapture.exe
+Z:\NoiseCapture\NoiseCapture\obj\x86\Debug\NoiseCapture.pdb
